@@ -132,7 +132,7 @@ I keep exploring SwiftUI, software architecture, and better ways to build and sh
 ## 📊 GitHub activity
 
 <p align="center">
-<a href="https://github.com/Themakew"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Themakew&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="Ruyther's GitHub activity over the last 31 days" /></a>
+<a href="https://github.com/Themakew"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Themakew&amp;theme=github_dark" alt="Ruyther's GitHub contribution overview" /></a>
 </p>
 
 <p align="center">
@@ -141,7 +141,7 @@ I keep exploring SwiftUI, software architecture, and better ways to build and sh
 </p>
 
 <p align="center">
-<a href="https://github.com/Themakew"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Themakew&amp;count_private=true&amp;show_icons=true&amp;custom_title=Ruyther%27s%20GitHub%20Stats&amp;hide=issues&amp;theme=vision-friendly-dark" alt="Ruyther's GitHub statistics" /></a>
+<a href="https://github.com/Themakew"><img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Themakew&amp;theme=github_dark" alt="Ruyther's GitHub statistics" /></a>
 <a href="https://github.com/Themakew"><img height="165" src="https://streak-stats.demolab.com/?user=Themakew&amp;hide_border=true&amp;theme=vision-friendly-dark" alt="Ruyther's GitHub contribution streak" /></a>
 </p>
 
